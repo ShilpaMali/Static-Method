@@ -1,4 +1,4 @@
-package com.method.statics;
+package com.method;
 
 public class StaticDemo1 {
 	static void getStatic() {
